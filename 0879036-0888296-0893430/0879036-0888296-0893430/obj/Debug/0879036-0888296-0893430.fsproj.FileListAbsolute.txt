@@ -6,3 +6,11 @@ C:\Users\gebruiker\Desktop\Discord Bots\0879036-0888296-0893430\0879036-0888296-
 C:\Users\gebruiker\Desktop\Discord Bots\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\FSharp.Core.xml
 C:\Users\gebruiker\Desktop\Discord Bots\0879036-0888296-0893430\0879036-0888296-0893430\obj\Debug\_0879036_0888296_0893430.exe
 C:\Users\gebruiker\Desktop\Discord Bots\0879036-0888296-0893430\0879036-0888296-0893430\obj\Debug\_0879036_0888296_0893430.pdb
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\_0879036_0888296_0893430.exe.config
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\_0879036_0888296_0893430.XML
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\_0879036_0888296_0893430.exe
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\_0879036_0888296_0893430.pdb
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\FSharp.Core.dll
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\bin\Debug\FSharp.Core.xml
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\obj\Debug\_0879036_0888296_0893430.exe
+C:\Users\zain\Source\Repos\FunctionProgramming\0879036-0888296-0893430\0879036-0888296-0893430\obj\Debug\_0879036_0888296_0893430.pdb
